@@ -7,6 +7,11 @@
 - 📫 How to reach me: <a href="mailto:vishaltailors22@gmail.com">vishaltailors22@gmail.com</a>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
