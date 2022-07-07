@@ -1,6 +1,6 @@
 ![Hi, I'm Vishal Tailor. I design. I develop.](https://github.com/vishaltailors/vishaltailors/blob/main/header.png?raw=true)
 
-- 🔭 I’m currently working on ([check here](https://vishaltailor.com)😁).
+- 🔭 I have recently worked on ([check here](https://vishaltailor.com)😁).
 - 🌱 The last thing that I have learned is GraphQL.
 - 👯 Always happy to collaborate.
 - 💬 Ask me about anything
