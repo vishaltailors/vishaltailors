@@ -6,6 +6,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:vishaltailors22@gmail.com">vishaltailors22@gmail.com</a>
 
+<hr /> 
+<h4>📊 Weekly development breakdown</h4>
 <!--START_SECTION:waka-->
 
 ```text
@@ -15,5 +17,6 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<hr /> 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
