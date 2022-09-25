@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 16 mins   ████████████▒░░░░░░░░░░░░   48.89 %
-Python       3 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-Other        1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Python       1 hr 44 mins    ███████░░░░░░░░░░░░░░░░░░   28.24 %
+Bash         1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Other        1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.81 %
 ```
 
 <!--END_SECTION:waka-->
