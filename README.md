@@ -11,12 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash         30 mins         ████████░░░░░░░░░░░░░░░░░   31.46 %
-JavaScript   30 mins         ████████░░░░░░░░░░░░░░░░░   31.42 %
-Python       30 mins         ████████░░░░░░░░░░░░░░░░░   31.41 %
-Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
