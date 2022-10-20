@@ -1,7 +1,7 @@
 ![Hi, I'm Vishal Tailor. I design. I develop.](https://github.com/vishaltailors/vishaltailors/blob/main/header.png?raw=true)
 
 - 🔭 I have recently worked on ([check here](https://vishaltailor.com)😁).
-- 🌱 Currently learning: [Deep javascript foundation by Kyle Simpson](https://frontendmasters.com/courses/deep-javascript-v3).
+- 🎦 Currently watching: [Deep javascript foundation by Kyle Simpson](https://frontendmasters.com/courses/deep-javascript-v3).
 - 👯 Always happy to collaborate.
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:vishaltailors22@gmail.com">vishaltailors22@gmail.com</a>
