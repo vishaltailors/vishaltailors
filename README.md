@@ -1,4 +1,5 @@
-![Hi, I'm Vishal Tailor. I design. I develop.](https://github.com/vishaltailors/vishaltailors/blob/main/header.png?raw=true)
+## Hi 👋🏻, I'm Vishal Tailor
+# I design, I develop. 
 
 - 🔭 I have recently worked on ([check here](https://vishaltailor.com)😁).
 <!-- - 🎦 Currently watching: JavaScript: The Hard Parts By Will Sentance. -->
