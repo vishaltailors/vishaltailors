@@ -1,5 +1,4 @@
-## Hi 👋🏻, I'm Vishal Tailor
-# I design, I develop. 
+# Hi 👋🏻, I'm Vishal Tailor. I design, I develop.
 
 - 🔭 I have recently worked on ([check here](https://vishaltailor.com)😁).
 <!-- - 🎦 Currently watching: JavaScript: The Hard Parts By Will Sentance. -->
