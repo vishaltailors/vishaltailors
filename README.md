@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   9 mins          █████████████████████████   100.00 %
+JSON              30 mins         ██████████████████████░░░   87.83 %
+Java Properties   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+TypeScript        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Groovy            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+JavaScript        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
