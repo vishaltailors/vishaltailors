@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         1 hr 31 mins          ██████████████░░░░░░░░░░░   55.86 %
-Markdown           34 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-CSS                25 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Image (svg)        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-SRecode Template   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+JavaScript         1 hr 18 mins          █████████████░░░░░░░░░░░░   52.14 %
+Markdown           34 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+CSS                25 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Image (svg)        5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+SRecode Template   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
